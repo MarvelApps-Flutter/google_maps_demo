@@ -1,16 +1,24 @@
-# google_maps_demo
+# Google maps demo
+A new flutter app for demonstrating Google maps demo.
 
-A new Flutter project.
+# Demo
+<img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/gif/demo.gif" height="480px"></td>
 
-## Getting Started
+# Android Screenshots
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/android/android1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/android/android2.png" height="480px"></td>
+  </tr>
+ </table>
+</br>
 
-A few resources to get you started if this is your first Flutter project:
+# IOS Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/ios/ios2.png" height="480px"></td>
+  </tr>
+ </table>
