@@ -29,6 +29,6 @@ A new flutter app for demonstrating Google maps demo.
 
 <img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/android/build_gradle.png" height="40px">
 
- 2. Specify your google API key in application manifest <b> android/app/src/main/AndroidManifest.xml </b>
+ 2. Specify your <b> google API key </b> in application manifest <b> android/app/src/main/AndroidManifest.xml </b>
 
 <img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/android/android_manifest.png" height="40px">
