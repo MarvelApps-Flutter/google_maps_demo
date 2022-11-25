@@ -1,5 +1,5 @@
 # Google maps demo
-A new flutter app for demonstrating Google maps demo.
+A new flutter app for demonstrating Google maps demo with city search functionality.
 
 # Video Preview
 <img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/gif/demo.gif" height="480px"></td>
@@ -32,3 +32,9 @@ A new flutter app for demonstrating Google maps demo.
  2. Specify your <b> google API key </b> in application manifest <b> android/app/src/main/AndroidManifest.xml </b>
 
   <img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/android/android_manifest.png" height="70px">
+
+ # For iOS
+
+ 1. Specify your <b> google API key </b> in application delegate <b> ios/Runner/AppDelegate.swift </b>
+
+  <img src="https://github.com/MarvelApps-Flutter/google_maps_demo/blob/master/screenshots/ios/appdelegate.png" height="70px">
